@@ -1,0 +1,22 @@
+/* basic styles */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+}
+
+button:hover {
+  opacity: 0.85;
+}
+
+input, textarea, select {
+  font-family: Arial, sans-serif;
+}
+
+/* TODO: add more styles later */
